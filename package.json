@@ -9,7 +9,7 @@
     "seed": "sequelize db:seed:all",
     "nodemon": "nodemon server"
   },
-  "author": "yp0975eu",
+  "author": "yp0975eu ",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
